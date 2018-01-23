@@ -1,0 +1,7 @@
+#Thu Apr 06 05:03:48 EDT 2017
+base.0=/Users/matthewporritt/AndroidStudioProjects/SproutedPixelDungeon-Gradle/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22952442ac60ead39f6854f165e2e4fdf5d9b4a9
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/matthewporritt/AndroidStudioProjects/SproutedPixelDungeon-Gradle/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_adbbb89a748bbb3de7d1727718ade7715fb01ea0/classes.dex
+base.1=/Users/matthewporritt/AndroidStudioProjects/SproutedPixelDungeon-Gradle/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_adbbb89a748bbb3de7d1727718ade7715fb01ea0
+file.0=/Users/matthewporritt/AndroidStudioProjects/SproutedPixelDungeon-Gradle/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_22952442ac60ead39f6854f165e2e4fdf5d9b4a9/classes.dex

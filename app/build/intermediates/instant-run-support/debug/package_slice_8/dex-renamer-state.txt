@@ -1,0 +1,4 @@
+#Thu Apr 06 05:03:47 EDT 2017
+base.0=/Users/matthewporritt/AndroidStudioProjects/SproutedPixelDungeon-Gradle/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8
+renamed.0=classes.dex
+file.0=/Users/matthewporritt/AndroidStudioProjects/SproutedPixelDungeon-Gradle/app/build/intermediates/transforms/dex/debug/folders/1000/5/slice_8/classes.dex
