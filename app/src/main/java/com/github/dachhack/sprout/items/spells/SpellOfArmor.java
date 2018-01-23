@@ -30,7 +30,7 @@ public class SpellOfArmor extends Spell {
         Char ch = Actor.findChar(cell);
         if (ch != null) {
 
-            int level = Math.round(curUser.magicLevel/10);
+            int level = Math.round(curUser.magicLevel/2);
 
             if (checkFam(curUser)){ level *= (int) 2f;}
 
